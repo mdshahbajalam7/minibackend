@@ -1019,6 +1019,58 @@
       "Description": "sadfasdfasd",
       "id": 2
     }
+  ],
+  "emplyes_Details": [
+    {
+      "name": "Md shahbaja alam",
+      "Developer": "MERN Stack",
+      "MobileNumber": 7004547417,
+      "Salary": "25545",
+      "age": "20",
+      "email": "mdshahbajalam38@gmail.com",
+      "gender": "Male",
+      "id": 1
+    },
+    {
+      "name": "Guddu ali",
+      "Developer": "Backend",
+      "MobileNumber": "7894561230",
+      "Salary": "545465",
+      "age": "25",
+      "email": "gudduali56@gmail.com",
+      "gender": "Male",
+      "id": 2
+    },
+    {
+      "name": "sdfasdf",
+      "age": "2",
+      "gender": "Male",
+      "email": "mdshahbajalam38@gmail.com",
+      "MobileNumber": "7004547417",
+      "Developer": "8th",
+      "Salary": "52",
+      "id": 3
+    },
+    {
+      "name": "mdshahbajalam38@gmail.com",
+      "age": "25",
+      "gender": "Male",
+      "email": "mdshahbajalam38@gmail.com",
+      "Developer": "8th",
+      "Salary": "325354554",
+      "MobileNumber": "7004547417",
+      "id": 4
+    },
+    {
+      "name": "mdshahbajalam38@gmail.com",
+      "age": "25",
+      "gender": "Male",
+      "email": "mdshahbajalam38@gmail.com",
+      "MobileNumber": "7004547417",
+      "Developer": "MERN Stack",
+      "Salary": "165",
+      "id": 5
+    }
   ]
 
 }
