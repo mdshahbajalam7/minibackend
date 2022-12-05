@@ -1062,10 +1062,31 @@
       "id": 2
     }
   ],
+ 
   "masaijobapp": [
     {
-      "id": 1
-     
+      "Company_name": "Masai School",
+      "City": "Bangalore",
+      "Location": "India",
+      "Role": "FullStack",
+      "Level": "Junior",
+      "Position": "FSD ",
+      "Language": "Javascript,",
+      "Contract ": "full time",
+      "Date": "2022-12-05",
+      "id": 2
+    },
+    {
+      "Company_name": "Ellette",
+      "City": "Gangtok",
+      "Location": "American Samoa",
+      "Role": "Frontend",
+      "Level": "Junior",
+      "Position": "Backend Developer",
+      "Language": "Java",
+      "Contract ": "full time",
+      "Date": "2022-03-17",
+      "id": 3
     }
   ]
 }
