@@ -1087,6 +1087,18 @@
       "Contract ": "full time",
       "Date": "2022-03-17",
       "id": 3
+    },
+    {
+      "Company_name": "Ellette",
+      "City": "Gangtok",
+      "Location": "American Samoa",
+      "Role": "Frontend",
+      "Level": "Junior",
+      "Position": "Backend Developer",
+      "Language": "Java",
+      "Contract ": "full time",
+      "Date": "2022-03-17",
+      "id": 3
     }
   ]
 }
