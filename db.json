@@ -982,7 +982,7 @@
       "id": 1,
       "Name": "Md Shahbaj Alam",
       "Email": "mdshahbajalam38@gmail.com",
-      "password":123456
+      "password": 123456
     }
   ],
   "notedata": [
@@ -1062,10 +1062,11 @@
       "id": 2
     }
   ],
-  "Masaijobapp": [
+  "masaijobapp": [
     {
-      "id":2
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
     }
   ]
-
 }
