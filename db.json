@@ -1062,7 +1062,7 @@
       "id": 2
     }
   ],
- 
+
   "masaijobapp": [
     {
       "Company_name": "Masai School",
@@ -1099,6 +1099,11 @@
       "Contract ": "full time",
       "Date": "2022-03-17",
       "id": 3
+    }
+  ],
+  "GamesData": [
+    {
+      "id": 1
     }
   ]
 }
